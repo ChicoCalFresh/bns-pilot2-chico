@@ -25,7 +25,7 @@ Researchers and campus staff are encouraged to review the information in this an
 
 If you are interested in viewing the other campuses results please select the campus you would like to view from below:
 
-- [CSU, Northridge](chicocalfresh.github.io/bns-pilot2-csun/)
+- [CSU, Northridge](https://chicocalfresh.github.io/bns-pilot2-csun/)
 - [Fresno State](https://chicocalfresh.github.io/bns-pilot2-fresno/)
 
 ### [`r emo::ji("magnifying_glass_tilted_right")` How to use this website](Instructions.html)
